@@ -1,0 +1,8 @@
+Starting first
+Starting second
+Starting third
+Starting first
+Starting second
+Starting third
+
+returns 10 (not output)
