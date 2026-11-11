@@ -8,4 +8,6 @@ def test_reverse():
     assert reverse("") == ""
     assert reverse("a") == "a"
 
-pytest.main()
+print(reverse("PaBaBB"))
+
+#pytest.main()
